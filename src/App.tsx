@@ -19,7 +19,7 @@ const EXP: Experience[] = [
     company: "Ignite Marketing & Productions LTD.",
     role: "Software Developer and Digital Marketer",
     type: "Internship",
-    period: "May 2025 – Present · 4 mos",
+    period: "May 2025 – Aug 2025 · 4 mos",
     location: "Grande Prairie, Alberta, Canada",
     remote: true,
     logo: "logos/ignite.png",
