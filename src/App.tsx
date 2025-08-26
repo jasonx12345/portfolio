@@ -368,7 +368,7 @@ export default function App() {
         </section>
 
         <footer className="pb-10 text-center text-sm text-white/80">
-          © {new Date().getFullYear()} Jason Xie
+          © {new Date().getFullYear()} Jason Xie ( Made with React, TypeScript, and Tailwind CSS )
         </footer>
       </main>
     </>
