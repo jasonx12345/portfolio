@@ -56,7 +56,7 @@ const PROJECTS: Project[] = [
     title: "ResourceHub",
     img: "logos/ResourceHub.jpg", // ensure exact filename case on disk
     description:
-      "Share and discover study resources by course—students post materials and look up anything for a class by course code.",
+      "Share and discover study resources by course, allowing students to post materials and look up anything for a class by course code.",
     tech: [
       "Express (TypeScript)",
       "Prisma ORM",
@@ -69,7 +69,7 @@ const PROJECTS: Project[] = [
     ],
     site: "https://resourcehub-kmq3.onrender.com/",
     github: "https://github.com/jasonx12345/resourcehub",
-    youtube: "https://youtu.be/VIDEO_ID_RESOURCEHUB",
+    youtube: "https://www.youtube.com/watch?v=g1RPihAumJk",
   },
   {
     title: "EatSafe Toronto",
@@ -87,13 +87,13 @@ const PROJECTS: Project[] = [
     ],
     site: "https://jasonx12345.github.io/eat-safe/",
     github: "https://github.com/jasonx12345/eat-safe",
-    youtube: "https://youtu.be/VIDEO_ID_EATSAFE",
+    youtube: "https://www.youtube.com/watch?v=ynfUIV7Yps8",
   },
   {
     title: "Remind Bot (Chrome Extension)",
     img: "logos/remind-bot.png",
     description:
-      "Minimal Chrome extension for quick reminder notifications—add a title and future date/time, then mark Done or Delete; includes a custom date picker.",
+      "Minimal Chrome extension for quick reminder notifications, add a title and future date/time, then mark Done or Delete.",
     tech: [
       "Chrome Extension APIs",
       "Vanilla JS",
@@ -105,7 +105,7 @@ const PROJECTS: Project[] = [
     ],
     site: "https://chromewebstore.google.com/detail/remind-bot/njohmbmmihjedeobjhcdoidngllmlege",
     github: "https://github.com/jasonx12345/Reminder-Chrome-Extension",
-    youtube: "https://youtu.be/VIDEO_ID_REMIND_BOT",
+    youtube: "https://www.linkedin.com/feed/update/urn:li:activity:7366566280759320578/",
   },
   {
     title: "TypeWell",
@@ -122,7 +122,7 @@ const PROJECTS: Project[] = [
       "JSON",
     ],
     github: "https://github.com/jasonx12345/Type-Well",
-    youtube: "https://youtu.be/VIDEO_ID_INTERN_ALERT",
+    youtube: "https://www.youtube.com/shorts/Z-Or5uMxxMc",
   },
 ];
 
