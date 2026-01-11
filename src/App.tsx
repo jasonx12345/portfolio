@@ -162,7 +162,7 @@ const EXP: Experience[] = [
     company: "Ontario Trade Printers Inc. (OTP Design-Works)",
     role: "Software Developer",
     type: "Internship",
-    period: "Jun 2024 – Sep 2024 · 4 mos",
+    period: "Jun 2024 – Aug 2024 · 3 mos",
     logo: "logos/otp.png",
     summary: "Web development and CRM tools implementation",
   },
