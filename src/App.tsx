@@ -53,6 +53,23 @@ function IconGlobe(props: SVGProps<SVGSVGElement>) {
 /* Data — reordered as requested */
 const PROJECTS: Project[] = [
   {
+    title: "Scrap-It (Co-Founder & CTO)",
+    img: "logos/scrap-it.jpeg",
+    description:
+      "Published cross-platform photo-sharing app for building shared scrapbooks with friends and family, live on the App Store and Google Play, with a launch campaign generating 10,000+ social media views and 2,000+ site visits.",
+    tech: [
+      "React Native",
+      "Expo",
+      "TypeScript",
+      "Supabase (PostgreSQL + RLS)",
+      "Clerk Auth",
+      "Cloudflare R2",
+      "Cloudflare Pages",
+      "Cloudflare Workers",
+    ],
+    site: "https://scrap-it.app",
+  },
+  {
     title: "ResourceHub",
     img: "logos/ResourceHub.jpg", // ensure exact filename case on disk
     description:
@@ -127,6 +144,16 @@ const PROJECTS: Project[] = [
 ];
 
 const EXP: Experience[] = [
+  {
+    company: "Vertex Inc.",
+    role: "Software Developer",
+    type: "Internship",
+    period: "May 2026 – Aug 2026 · 4 mos",
+    location: "Greater Philadelphia",
+    logo: "logos/vertex.jpeg",
+    summary:
+      "Cloud performance engineering on AWS: Redis client benchmarking (Jedis vs. Lettuce), load testing and scalability modeling, and API capacity baselines",
+  },
   {
     company: "Ignite Marketing & Productions LTD.",
     role: "Software Developer and Digital Marketer",
